@@ -32,7 +32,7 @@
     </tr>
     <tr>
       <td><img src="/screenshots/month-view-light.png" alt="" height="600"></td>
-      <td><img src="/screenshots/month-view-light.png" alt="" height="600"></td>
+      <td><img src="/screenshots/month-view-dark.png" alt="" height="600"></td>
     </tr>
   </table>
 </div>
