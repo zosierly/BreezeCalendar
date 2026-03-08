@@ -11,19 +11,6 @@
 - 🎨 简约UI：清爽视觉风格，无冗余信息，专注核心体验
 
 ## 📸 界面预览
-![BreezeCalendar 月视图截图-light](/screenshots/month-view-light.png)
-![BreezeCalendar 月视图截图-dark](/screenshots/month-view-dark.png))
-![BreezeCalendar 周视图截图-light](/screenshots/week-view-light.png)
-![BreezeCalendar 周视图截图-dark](/screenshots/week-view-dark.png)
-![BreezeCalendar 设置截图-light](/screenshots/settings-light.png)
-![BreezeCalendar 设置截图-dark](/screenshots/settings-dark.png)
-
-
-<img src="/screenshots/month-view-light.png" alt="" height="600">
-<img src="/screenshots/month-view-dark.png" alt="" height="600">
-
-
-## 📸 界面预览
 <div align="center">
   <table>
     <tr>
@@ -48,7 +35,7 @@
       <td><img src="/screenshots/week-view-dark.png" alt="" height="600"></td>
     </tr>
   </table>
-</div
+</div>
 
 <div align="center">
   <table>
@@ -61,4 +48,4 @@
       <td><img src="/screenshots/settings-dark.png" alt="" height="600"></td>
     </tr>
   </table>
-</div
+</div>
