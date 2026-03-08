@@ -12,8 +12,9 @@
 
 ## 📸 界面预览
 ![BreezeCalendar 月视图截图-light](https://github.com/zosierly/breezecalendar/raw/main/screenshots/month-view-light.png)
-![BreezeCalendar 月视图截图-dark](https://github.com/zosierly/breezecalendar/raw/main/screenshots/month-view-dark.png)
+![BreezeCalendar 月视图截图-dark]((https://raw.githubusercontent.com/zosierly/BreezeCalendar/master/screenshots/month-view-dark.png))
 ![BreezeCalendar 周视图截图-light](https://github.com/zosierly/breezecalendar/raw/main/screenshots/week-view-light.png)
 ![BreezeCalendar 周视图截图-dark](https://github.com/zosierly/breezecalendar/raw/main/screenshots/week-view-dark.png)
 ![BreezeCalendar 设置截图-light](https://github.com/zosierly/breezecalendar/raw/main/screenshots/settings-light.png)
 ![BreezeCalendar 设置截图-dark](https://github.com/zosierly/breezecalendar/raw/main/screenshots/settings-dark.png)
+https://raw.githubusercontent.com/zosierly/BreezeCalendar/master/screenshots/month-view-dark.png
