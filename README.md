@@ -36,3 +36,29 @@
     </tr>
   </table>
 </div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>周视图-light</b></td>
+      <td align="center"><b>周视图-dark</b></td>
+    </tr>
+    <tr>
+      <td><img src="/screenshots/week-view-light.png" alt="" height="600"></td>
+      <td><img src="/screenshots/week-view-dark.png alt="" height="600"></td>
+    </tr>
+  </table>
+</div
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>设置-light</b></td>
+      <td align="center"><b>设置-dark</b></td>
+    </tr>
+    <tr>
+      <td><img src="/screenshots/settings-light.png" alt="" height="600"></td>
+      <td><img src="/screenshots/settings-dark.png" alt="" height="600"></td>
+    </tr>
+  </table>
+</div
