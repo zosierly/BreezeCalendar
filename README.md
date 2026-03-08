@@ -20,3 +20,4 @@
 
 
 <img src="/screenshots/month-view-light.png" alt="" height="600">
+<img src="/screenshots/month-view-dark.png" alt="" height="600">
