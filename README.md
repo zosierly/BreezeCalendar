@@ -17,3 +17,6 @@
 ![BreezeCalendar 周视图截图-dark](/screenshots/week-view-dark.png)
 ![BreezeCalendar 设置截图-light](/screenshots/settings-light.png)
 ![BreezeCalendar 设置截图-dark](/screenshots/settings-dark.png)
+
+
+<img src="/screenshots/month-view-light.png" alt="" height="300">
