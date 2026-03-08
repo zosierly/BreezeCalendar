@@ -19,4 +19,4 @@
 ![BreezeCalendar 设置截图-dark](/screenshots/settings-dark.png)
 
 
-<img src="/screenshots/month-view-light.png" alt="" height="300">
+<img src="/screenshots/month-view-light.png" alt="" height="600">
