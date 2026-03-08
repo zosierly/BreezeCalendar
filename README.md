@@ -21,3 +21,18 @@
 
 <img src="/screenshots/month-view-light.png" alt="" height="600">
 <img src="/screenshots/month-view-dark.png" alt="" height="600">
+
+
+## 📸 界面预览
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>月视图-light</b></td>
+      <td align="center"><b>月视图-dark</b></td>
+    </tr>
+    <tr>
+      <td><img src="/screenshots/month-view-light.png" alt="" height="600"></td>
+      <td><img src="/screenshots/month-view-light.png" alt="" height="600"></td>
+    </tr>
+  </table>
+</div>
